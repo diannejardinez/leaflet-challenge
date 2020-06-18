@@ -13,7 +13,7 @@ Map includes:
 - Popups that provide the location, time, and magnitude level of the earthquake when a marker is clicked
 - An earthquake magnitude level legend
 
-![]()
+![](https://github.com/diannejardinez/leaflet-challenge/blob/master/Leaflet-Step-1/images/lvl1.png)
 
 ## Leaflet Step 2
 **Objective:** Creating a map with Leaflet that illustrates the relationship between tectonic plates and seismic activity.
@@ -25,4 +25,4 @@ Map includes:
     - 3 map layers (Satellite, Grayscale, Outdoors)
     - Filter selection between tectonic plates and seismic activity
 
-![]()
+![](https://github.com/diannejardinez/leaflet-challenge/blob/master/Leaflet-Step-2/images/lvl2.png)
