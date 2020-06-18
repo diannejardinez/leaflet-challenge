@@ -5,7 +5,7 @@ var grayscalemap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/
   maxZoom: 18,
   id: "mapbox/light-v10",
   accessToken: API_KEY
-}).addTo(map);
+});
 
 // Initialize LayerGroup 
 var earthquakes = new L.LayerGroup();
@@ -19,7 +19,7 @@ var map = L.map("map", {
 });
 
 // Add 'grayscalemap' tile layer to the map
-// grayscalemap.addTo(map);
+grayscalemap.addTo(map);
 
 // Create overlay object
 var overlayMaps = {
