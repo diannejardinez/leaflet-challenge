@@ -6,7 +6,7 @@
 
 
 ## Leaflet Step 1
-**Objective:** Creating a map with Leaflet that plots all of the earthquakes on their longitude and latitude.
+**Objective:** Creating a map with Leaflet that plots all of the earthquakes on their longitude and latitude coordinates.
 
 Map includes:
 - Data markers that reflect the magnitude of the earthquake in their size and color
@@ -20,9 +20,8 @@ Map includes:
 
 Map includes:
 - All specifications from Leaflet Step 1
-- Fault lines
-- Map controls that consist of:
-    - 3 map layers (Satellite, Grayscale, Outdoors)
-    - Filter selection between tectonic plates and seismic activity
+- Map layer controls that consist of:
+    - 3 base map layers (Satellite, Grayscale, Outdoors)
+    - 2 filter overlays (Tectonic Plates and Seismic Activity)
 
 ![](https://github.com/diannejardinez/leaflet-challenge/blob/master/Leaflet-Step-2/images/lvl2.png)
